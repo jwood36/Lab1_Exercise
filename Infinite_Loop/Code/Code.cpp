@@ -12,7 +12,7 @@ int main()
 	string age = "";
 	string occup = "";
 
-	while (choice != -1)
+	while (true)
 	{
 		cout << "-1: Exit\n";
 		cout << "1: Enter Name\n";
